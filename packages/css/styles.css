@@ -357,6 +357,13 @@ img {
 .home__scroll-arrow {
   font-size: 1.25rem;
 }
+/*===============Counter=====================*/
+.counter{
+  width: 10%;
+  
+
+}
+
 /*==================== BUTTONS ====================*/
 
 .button {
@@ -537,15 +544,15 @@ img {
 }
 
 .skills__tab {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__sql {
-  width: 50%;
+  width: 70%;
 }
 
 .skills__google {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__bank {
